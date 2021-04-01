@@ -28,7 +28,6 @@ Se não foi feita clonagem de um repositório existente, então deverá conectar
       *git config --global --unset user.name*
       *git config --global user.email "exemploemail@email"*
       *git config --global user.name "exemploname"*
-e
 
 
 
