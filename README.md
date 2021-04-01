@@ -3,5 +3,5 @@
 Ola! Bem vindo a nossas receitas :wave:
 
 - Strogonoff de frango :chicken:
-- 
+- Strogonoff de carne :cow:
 
