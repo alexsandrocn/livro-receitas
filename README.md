@@ -1,6 +1,6 @@
 # Resumo de git :cool:
 
-Ola! Resumo breve sobre git :wave:
+#### Ola! Resumo breve sobre git :wave:
 
 - Strogonoff de frango :chicken:
 
@@ -14,7 +14,7 @@ Ola! Resumo breve sobre git :wave:
 
 *git-status* - Exibe o a condição da árvore de trabalho
 
-####  Se não foi feita clonagem de um repositório existente, então deverá conectar seu repositŕio a um servidor remoto
+Se não foi feita clonagem de um repositório existente, então deverá conectar seu repositŕio a um servidor remoto
 
 *git remote add origin <servidor>*
 *git remote -v* - traz os repósitorios remotos na qual o repositorio local esta apontado
@@ -28,6 +28,7 @@ Ola! Resumo breve sobre git :wave:
       *git config --global --unset user.name*
       *git config --global user.email "exemploemail@email"*
       *git config --global user.name "exemploname"*
+e
 
 
 
